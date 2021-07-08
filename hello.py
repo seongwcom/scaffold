@@ -1,8 +1,6 @@
 def add(x, y):
     return x + y
 
-var=
-
 num_x = 1
 num_y = 2
 result = add(num_x, num_y)
